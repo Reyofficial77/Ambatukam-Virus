@@ -1,6 +1,6 @@
-# YRTTNOD
+# Ambatukam Virus
 
-This is not a joke virus. This virus will be make your computer crash, blue screen, and MBR overwrited. **PLEASE DON'T TRY IN YOUR COMPUTER!**. Use VMWare or Virtual Box for try this virus.
+This is not a joke virus. This virus will be make your file will be encrypted, blue screen, and MBR overwrited. **PLEASE DON'T TRY IN YOUR COMPUTER!**. Use VMWare or Virtual Box for try this virus.
 
 ## Tech Stack
 

@@ -5,6 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,8 +25,8 @@ jobs:
 
       - name: Install Linux build dependencies
         run: |
-          sudo -S -p '' apt-get update
-          sudo -S -p '' apt-get install -y \
+          sudo apt-get update
+          sudo apt-get install -y \
             git zip unzip openjdk-17-jdk autoconf libtool pkg-config \
             zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev libssl-dev python3-pip
 

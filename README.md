@@ -16,6 +16,8 @@ This virus use a **Python**. With library like pygame and more
 
 This is a trojan virus. **DON'T TRY IN YOUR COMPUTER! USE A VIRTUAL MACHINE FOR TRY THIS VIRUS!**
 
+**Download the virus here : [Ambatukam Virus](https://github.com/Reyofficial77/Ambatukam-Virus/releases/download/virus/app.exe)**
+
 ## COPYRIGHT
 
 ©2026 Leaks Server Inc. All rights reverse.

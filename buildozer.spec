@@ -8,8 +8,11 @@ version = 1.0
 requirements = python3,pygame
 orientation = all
 fullscreen = 1
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 android.accept_sdk_license = True
+android.api = 30
+android.minapi = 24
+android.ndk = 25b
 p4a.bootstrap = sdl2
 
 [buildozer]

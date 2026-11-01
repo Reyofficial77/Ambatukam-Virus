@@ -21,8 +21,8 @@ jobs:
 
       - name: Install Linux build dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y \
+          sudo -S -p '' apt-get update
+          sudo -S -p '' apt-get install -y \
             git zip unzip openjdk-17-jdk autoconf libtool pkg-config \
             zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev libssl-dev python3-pip
 
@@ -39,26 +39,13 @@ jobs:
 
       - name: Prepare build error summary
         if: failure()
-        run: |
-          python3 - <<'PY'
-          import re
-          lines = open('build.log', errors='replace').read().splitlines()
-          idx = next((i for i, line in enumerate(lines) if re.search(r'error|Error|Traceback|Exception|FAIL', line)), None)
-          if idx is None:
-              idx = max(0, len(lines) - 120)
-          start = max(0, idx - 60)
-          end = min(len(lines), idx + 220)
-          with open('build-error-summary.txt', 'w') as f:
-              f.write('
-'.join(lines[start:end]))
-          PY
+        run: python3 -c "import re; lines=open('build.log',errors='replace').read().splitlines(); idx=next((i for i,l in enumerate(lines) if re.search(r'error|Error|Traceback|Exception|FAIL',l)),None); idx = len(lines)-120 if idx is None else idx; start=max(0,idx-60); end=min(len(lines),idx+220); open('build-error-summary.txt','w').write(chr(10).join(lines[start:end]))"
 
       - name: Create GitHub issue with build error summary
         if: failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh issue create             --title "Android build failure $(date -u +%Y-%m-%dT%H:%M:%SZ)"             --body-file build-error-summary.txt || true
+        run: gh issue create --title "Android build failure $(date -u +%Y-%m-%dT%H:%M:%SZ)" --body-file build-error-summary.txt || true
 
       - name: Upload full build log on failure
         if: failure()

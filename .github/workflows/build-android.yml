@@ -43,7 +43,7 @@ jobs:
 
       - name: Prepare build error summary
         if: failure()
-        run: python3 -c "import re; lines=open('build.log',errors='replace').read().splitlines(); idx=next((i for i,l in enumerate(lines) if re.search(r'error|Error|Traceback|Exception|FAIL',l)),None); idx = len(lines)-120 if idx is None else idx; start=max(0,idx-60); end=min(len(lines),idx+220); open('build-error-summary.txt','w').write(chr(10).join(lines[start:end]))"
+        run: python3 -c "lines=open('build.log',errors='replace').read().splitlines(); out=lines[-400:] if len(lines)>400 else lines; open('build-error-summary.txt','w').write(chr(10).join(out))"
 
       - name: Create GitHub issue with build error summary
         if: failure()

@@ -1,6 +1,12 @@
-# YRTTNOD
+<h1 align="center">Ambatukam Virus</h1>
 
-This is not a joke virus. This virus will be make your computer crash, blue screen, and MBR overwrited. **PLEASE DON'T TRY IN YOUR COMPUTER!**. Use VMWare or Virtual Box for try this virus.
+<div align="center">
+  <img src="preview/preview.png" width="500px" height="250px">
+</div>
+
+
+<p style="font-size: 20px;">This is not a joke virus. This virus will be make your computer crash, blue screen, and MBR overwrited. <strong>PLEASE DON'T TRY IN YOUR COMPUTER!</strong>. Use VMWare or Virtual Box for try this virus.</p>
+
 
 ## Tech Stack
 

